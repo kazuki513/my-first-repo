@@ -40,7 +40,13 @@ published: true
 
 ## 🔗 実際のコードはこちら
 
-- GitHubにプログラムをアップロード予定（後日リンク追加）
+- **条件分岐と比較演算子** https://github.com/kazuki513/paiza-Python-practice/blob/main/01_if_comparison.py
+
+- **おみくじプログラム作成** https://github.com/kazuki513/paiza-Python-practice/blob/main/02_omikuji.py
+
+- **RPG風ダメージ判定** https://github.com/kazuki513/paiza-Python-practice/blob/main/03_rpg_damage.py
+
+-  **西暦から和暦への変換** https://github.com/kazuki513/paiza-Python-practice/blob/main/04_japanese_era.py
 
 ## 最後に
 
