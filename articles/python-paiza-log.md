@@ -9,7 +9,7 @@ published: true
 2025年8月14日
 
 ## 📚 使用教材
-- Paizaラーニング「Python入門編1」chapter1
+- Paizaラーニング「Python3入門編」chapter1
 
 ## 🧠 学習内容まとめ
 
