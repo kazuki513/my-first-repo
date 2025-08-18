@@ -37,7 +37,21 @@ published: true
 - 最初はprintすら不安だったけど、今回を通して自分でコードを少しは書けるようになって成長を感じた
 
   ## 🔗 実際のコードはこちら  
+- **チャプター2** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter2_hello_world.py
 
+- **チャプター3** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter3_comments.py
+
+- **チャプター4** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter4_html_tags.html
+
+- **チャプター5** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter5_variables.py
+
+- **チャプター6** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter6_dice_slime.py
+
+- **チャプター7** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter7_operators_basic.py
+
+- **チャプター8** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter8_price_calc.py
+
+- **チャプター9** https://github.com/kazuki513/paiza-Python-practice/blob/main/chapter9_str_type.py
 
 ## 最後に
 
